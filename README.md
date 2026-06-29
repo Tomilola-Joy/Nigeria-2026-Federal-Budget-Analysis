@@ -38,3 +38,4 @@ Python/AI Tools – Data processing and validation
 Power BI Dashboard Link
 https://app.powerbi.com/view?r=eyJrIjoiYWFkZTRiYzMtYjIxZC00ZjVmLTk1YjMtZGUyYmY4NjJlNTQyIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9
 
+![](Screenshot_20260629-111600~2.png)
